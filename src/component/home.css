@@ -1,0 +1,136 @@
+.main-container{
+    position: absolute;
+    width: 100%;
+}
+.home-footer{
+    position: absolute;
+    top:1600px;
+    left:0px;
+}
+.home-img1{
+    position: absolute;
+    top:200px;
+    left:100px;
+}
+.home-img2{
+    position: absolute;
+    top:200px;
+    left:470px;
+}
+.home-img3{
+    position: absolute;
+    top:600px;
+    left:100px;
+}
+.home-img4{
+    position: absolute;
+    top:200px;
+    left:870px;
+}
+.home-img5{
+    position: absolute;
+    top:580px;
+    left:845px;
+}
+.home-img6{
+    position: absolute;
+    top:650px;
+    left:470px;
+}
+.home-img7{
+    position: absolute;
+    top:600px;
+    left:870px;
+}
+.home-img8{
+    position: absolute;
+    top:1000px;
+    left:100px;
+}
+.home-img9{
+    position: absolute;
+    top:1080px;
+    left:490px;
+}
+.home-img10{
+    position: absolute;
+    top:1080px;
+    left:850px;
+}
+
+.education-img1{
+    position: absolute;
+    top:500px;
+    left:400px;
+}
+.education-head{
+    position: absolute;
+    top:150px;
+    left:120px;
+}
+.education-content1{
+    position: absolute;
+    top:230px;
+    left:120px;
+}
+.education-content2{
+    position: absolute;
+    top:360px;
+    left:120px;
+}
+.edu-footer{
+    position: absolute;
+    top:1000px;
+    left:0px;
+}
+.health-img-1{
+    position: absolute;
+    top:550px;
+    left:250px;
+}
+.loan-sub-head{
+    position: absolute;
+    top:230px;
+    left:120px;
+}
+.loan-content1{
+    position: absolute;
+    top:270px;
+    left:120px;
+}
+.loan-content2{
+    position: absolute;
+    top:430px;
+    left:120px;
+}
+.loan-sub-head2{
+    position: absolute;
+    top:390px;
+    left:120px;
+}
+.loan-sub-head3{
+    position: absolute;
+    top:590px;
+    left:120px;
+}
+.loan-content3{
+    position: absolute;
+    top:630px;
+    left:120px;
+}
+.savings-content2{
+    position: absolute;
+    top:380px;
+    left:120px;
+}
+.savings-img-1{
+    position: absolute;
+    top:600px;
+    left:120px;
+}
+.savings-img-2{
+    position: absolute;
+    top:600px;
+    left:540px;
+
+}
