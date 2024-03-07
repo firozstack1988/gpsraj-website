@@ -10,6 +10,9 @@ import Health from './health';
 import Welfare from './welfare';
 import Loan from './loan';
 import Savings from './savings';
+import Culture from './culture';
+import Magazine from './magazine';
+import Notice from './notice';
 
 function App() {
   return (
@@ -21,6 +24,9 @@ function App() {
           <Route exact path="/welfare" element={<Welfare/>}/>
           <Route exact path="/loan" element={<Loan/>}/>
           <Route exact path="/savings" element={<Savings/>}/>
+          <Route exact path="/culture" element={<Culture/>}/>
+          <Route exact path="/magazine" element={<Magazine/>}/>
+          <Route exact path="/notice" element={<Notice/>}/>
           <Route exact path="/" element={<Home />} />
         </Routes>
       </Router>
