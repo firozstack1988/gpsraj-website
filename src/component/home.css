@@ -132,5 +132,49 @@
     position: absolute;
     top:600px;
     left:540px;
-
+}
+.culture-img-1{
+    position: absolute;
+    top:200px;
+    left:150px;
+}
+.culture-img-2{
+    position: absolute;
+    top:220px;
+    left:700px;
+}
+.culture-img-3{
+    position: absolute;
+    top:700px;
+    left:700px;
+}
+.culture-img-4{
+    position: absolute;
+    top:850px;
+    left:150px;
+}
+.magazine-img-1{
+    position: absolute;
+    top:380px;
+    left:150px;
+}
+.magazine-img-2{
+    position: absolute;
+    top:350px;
+    left:500px;
+}
+.magazine-img-2{
+    position: absolute;
+    top:380px;
+    left:700px;
+}
+.magazine-img-3{
+    position: absolute;
+    top:800px;
+    left:150px;
+}
+.magazine-img-4{
+    position: absolute;
+    top:800px;
+    left:700px;
 }
